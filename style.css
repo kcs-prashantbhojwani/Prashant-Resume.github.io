@@ -1,0 +1,226 @@
+#HeaderDiv a.navbar-brand
+{
+    font-family:Monotype Corsiva;
+    font-size:25px;    
+    color:#ffffff;
+}
+#navbarCollapse li b
+{
+    color:#ffffff;
+}
+
+.fullscreenvideo 
+{
+    position:relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow:hidden;
+    z-index:-1;
+}
+
+.bgfullscreen 
+{
+    position:absolute;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+}
+#home{
+    height: auto;
+    padding-bottom: 40px;
+    color: #fff;
+    font-weight: bold;
+}
+#HomeRow
+{
+    padding-top:7%;   
+}
+#HomeRow a i.fa
+{
+    color:#ffffff;
+}
+
+#HomeRow div.col-lg-offset-3
+{
+    background:rgba(0,0,0,0.7); 
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius:5px;
+    box-shadow:0px 0px 10px Blue;   
+}
+
+#TechnicalSummary
+{
+   height:auto;
+   padding-bottom:40px;
+    color:#fff;
+    background-attachment:fixed;
+    background-image:url('./images/About_Image.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-size:20px;
+	line-height:1.5;
+}
+	
+#TechnicalSummaryRow
+{
+ padding-top:7%;
+}
+#TechnicalSummary h1
+{
+ font-family:Monotype Corsiva;
+}
+
+#Qualifications
+	            {
+	                background-attachment:fixed;
+	                background-image:url('./images/Qualifications_Image.jpg');
+	                background-repeat:no-repeat;
+	                background-size:cover;
+	                font-size:20px;
+	                padding-bottom:40px;
+	                color:#000000;
+	            }
+	            #QualificationsRow
+	            {
+	                 margin-top:100px;
+	                 margin-bottom:100px;
+	            }
+	            #QualificationsRow div.col-lg-offset-1
+	            {
+	                padding:10px;
+	                background-color:rgba(255,255,255,0.8);
+	                border-radius:8px;
+	                box-shadow:0px 0px 18px blue;
+	                
+	            }
+	            #Qualifications table
+	            {
+	                width:100%;
+	                margin-top:50px;
+	            }
+	            #Qualifications table tr td
+	            {
+	                padding-bottom:20px;
+	            }
+	            #Qualifications table tr td:first-child
+	            {
+	                width:30%;
+	                padding-left:10px;
+	            }
+
+                #Skills
+	            {
+	                background-attachment:fixed;
+	                background-image:url('./images/Qualifications_Image.jpg');
+	                background-repeat:no-repeat;
+	                background-size:cover;
+	                font-size:20px;
+	                padding-bottom:40px;
+	                color:#000000;
+	            }
+	            #SkillsRow
+	            {
+	                 margin-top:100px;
+	                 margin-bottom:100px;
+	            }
+	            #SkillsRow div.col-lg-offset-5
+	            {
+	                padding:10px;
+	                background-color:#DCDCDC;
+	                border-radius:8px;
+	                box-shadow:0px 0px 18px blue;
+	                opacity:0.8;
+	            }
+	            #Skills table
+	            {
+	                width:100%;
+	                margin-top:50px;
+	            }
+	            #Skills table tr td
+	            {
+	                padding-bottom:20px;
+	            }
+	            #Skills table tr td:first-child
+	            {
+	                width:30%;
+	                padding-left:10px;
+	            }
+
+                #Noncollegiate
+	            {
+	                background-attachment:fixed;
+	                background-image:url('./images/Qualifications_Image.jpg');
+	                background-repeat:no-repeat;
+	                background-size:cover;
+	                font-size:20px;
+	                padding-bottom:40px;
+	                color:#000000;
+	            }
+	            #NoncollegiateRow
+	            {
+	                 margin-top:100px;
+	                 margin-bottom:100px;
+	            }
+	            #NoncollegiateRow div.col-lg-offset-1
+	            {
+	                padding:10px;
+	                background-color:#DCDCDC;
+	                border-radius:8px;
+	                box-shadow:0px 0px 18px blue;
+	                opacity:0.8;
+	            }
+	            #Noncollegiate table
+	            {
+	                width:100%;
+	                margin-top:50px;
+	            }
+	            #Noncollegiate table tr td
+	            {
+	                padding-bottom:20px;
+	            }
+	            #Noncollegiate table tr td:first-child
+	            {
+	                width:30%;
+	                padding-left:10px;
+	            }
+                #Experience
+	            {
+	                background-attachment:fixed;
+	                background-image:url('./images/Qualification.jpg');
+	                background-repeat:no-repeat;
+	                background-size:cover;
+	                font-size:20px;
+	                padding-bottom:40px;
+	                color:#000000;
+	            }
+	            #ExperienceRow
+	            {
+	                 margin-top:100px;
+	                 margin-bottom:100px;
+	            }
+	            #ExperienceRow div.col-lg-offset-5
+	            {
+	                padding:10px;
+	                background-color:#DCDCDC;
+	                border-radius:8px;
+	                box-shadow:0px 0px 18px blue;
+	                opacity:0.8;
+	            }
+	            #Experience table
+	            {
+	                width:100%;
+	                margin-top:50px;
+	            }
+	            #Experience table tr td
+	            {
+	                padding-bottom:20px;
+	            }
+	            #Experience table tr td:first-child
+	            {
+	                width:30%;
+	                padding-left:10px;
+	            }
